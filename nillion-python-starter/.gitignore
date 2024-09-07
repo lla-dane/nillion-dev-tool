@@ -1,0 +1,10 @@
+**/*.pyc
+**/__pycache__
+nillion-venv/
+permissions/.nillion-config.json
+.env
+.idea
+.DS_Store
+*.key
+
+.venv
